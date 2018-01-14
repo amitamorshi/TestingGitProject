@@ -7,12 +7,7 @@ public class Test {
 		System.out.println("applied stash");
 		System.out.println("amit saha");
 		System.out.println("saha after stashed");
-<<<<<<< HEAD
-		System.out.println("added new stuffs");
-		
-=======
->>>>>>> branch 'testing_branch_2' of https://github.com/amitamorshi/TestingGitProject.git
-		
+	
 	}
 
 }
