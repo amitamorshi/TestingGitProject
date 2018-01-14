@@ -7,11 +7,8 @@ public class Test {
 		System.out.println("applied stash");
 		System.out.println("amit saha");
 		System.out.println("saha after stashed");
-		System.out.println("changed by outsider");
+		System.out.println("added new stuffs");
 		
-		System.out.println("changed by outsider");
-		
-		System.out.println("changed by outsider");
 		
 	}
 
